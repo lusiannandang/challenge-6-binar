@@ -1,0 +1,30 @@
+.body {
+  background-color: #f1f3ff;
+  height: 500px;
+}
+
+.img {
+  margin-left: auto;
+  margin-right: 0px;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.textContainer {
+  margin-top: 100px !important;
+  margin-left: 136px !important;
+  margin-right: 32px !important;
+}
+
+.textHead {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 54px;
+}
+
+.textParagraph {
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+  margin-bottom: 16px;
+}

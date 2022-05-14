@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #f1f3ff;
+  margin-top: 0px;
+}
+
+.navItem {
+  color: #0000;
+  font-size: 14px;
+  margin-right: 32px;
+}
+
+.icon {
+  margin-left: 100px;
+  width: 100px;
+  height: 34px;
+  background-color: #0d28a6;
+}
